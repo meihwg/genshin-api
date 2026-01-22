@@ -3,6 +3,7 @@
 ## Description
 
 A public GitHub raw API providing comprehensive game data for Genshin Impact.
+This API may contain errors and/or missing contents. Feel free to contact me or open a pull request.
 
 **Use Cases:**
 - Build character and weapon databases for web applications
@@ -12,6 +13,20 @@ A public GitHub raw API providing comprehensive game data for Genshin Impact.
 - Integrate Genshin Impact data into Discord bots or other applications
 
 **Important Note:** This is a raw JSON API hosted on GitHub. Since it's a static file service, you cannot apply filters or query parameters directly in the request. You must retrieve the complete dataset and implement filtering logic in your application code.
+
+## Credits
+
+This API is made by Mei, a french web developer.
+
+**GitHub:** [@meihwg](https://github.com/meihwg)
+
+**Portfolio:** [https://meihwg.github.io/](https://meihwg.github.io/)
+
+This API was made for my website (under construction) La Taverne de Jade.
+
+**Link:** [https://meihwg.github.io/genshin/](https://meihwg.github.io/genshin/)
+
+**Discord:** [https://discord.gg/Urwmqt9jgK](https://discord.gg/Urwmqt9jgK)
 
 ## API Endpoints
 
@@ -129,6 +144,7 @@ const talentCosts = gameData[0].ascension_values.talents;
 // Access weapon ascension costs
 const weaponAscension = gameData[0].ascension_values.weapons;
 ```
+
 
 
 
