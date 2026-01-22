@@ -5,7 +5,14 @@
         "rarity": 4,
         "element": "hydro",
         "weapon": "claymore",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Precision Kuuvahki Stamping Die",
+            "local_speciality": "Portable Bearing",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Silken Feather"
+        }
     },
     {
         "id": "albedo",
@@ -13,7 +20,14 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Basalt Pillar",
+            "local_speciality": "Cecilia",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tusk of Monoceros Caeli"
+        }
     },
     {
         "id": "alhaitham",
@@ -21,14 +35,28 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "sword",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Pseudo-Stamens",
+            "local_speciality": "Sand Grease Pupa",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mirror of Mushin"
+        }
     },
     {
         "id": "aloy",
         "name": "Aloy",
         "rarity": 5,
         "element": "cryo",
-        "weapon": "bow"
+        "weapon": "bow",
+        "ascension_materials": {
+            "boss_drops": "Crystalline Bloom",
+            "local_speciality": "Crystal Marrow",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Molten Moment"
+        }
     },
     {
         "id": "amber",
@@ -36,7 +64,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "bow",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Small Lamp Grass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Sigh"
+        }
     },
     {
         "id": "arataki_itto",
@@ -44,7 +79,14 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "claymore",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Riftborn Regalia",
+            "local_speciality": "Onikabuto",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ashen Heart"
+        }
     },
     {
         "id": "arlecchino",
@@ -52,7 +94,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "polearm",
-        "region": "Snezhnaya"
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Fragment of a Golden Melody",
+            "local_speciality": "Rainbow Rose",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Fading Candle"
+        }
     },
     {
         "id": "baizhu",
@@ -60,7 +109,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "catalyst",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Evergloom Ring",
+            "local_speciality": "Violetgrass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Worldspan Fern"
+        }
     },
     {
         "id": "barbara",
@@ -68,7 +124,14 @@
         "rarity": 4,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Cleansing Heart",
+            "local_speciality": "Philanemo Mushroom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ring of Boreas"
+        }
     },
     {
         "id": "beidou",
@@ -76,7 +139,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "claymore",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Lightning Prism",
+            "local_speciality": "Noctilucous Jade",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Sigh"
+        }
     },
     {
         "id": "bennett",
@@ -84,7 +154,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Windwheel Aster",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Plume"
+        }
     },
     {
         "id": "candace",
@@ -92,7 +169,14 @@
         "rarity": 4,
         "element": "hydro",
         "weapon": "polearm",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Light Guiding Tetrahedron",
+            "local_speciality": "Henna Berry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tears of the Calamitous God"
+        }
     },
     {
         "id": "charlotte",
@@ -100,7 +184,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "catalyst",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "\"Tourbillon Device\"",
+            "local_speciality": "Beryl Conch",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Silk String"
+        }
     },
     {
         "id": "chasca",
@@ -108,7 +199,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "bow",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Ensnaring Gaze",
+            "local_speciality": "Withering Purpurbloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Silken Feather"
+        }
     },
     {
         "id": "chevreuse",
@@ -116,7 +214,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "polearm",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Fontemer Unihorn",
+            "local_speciality": "Lumidouce Bell",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Eye of the Maelstrom"
+        }
     },
     {
         "id": "chiori",
@@ -124,7 +229,14 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Artificed Spare Clockwork Component - Coppelia",
+            "local_speciality": "Dendrobium",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Silk String"
+        }
     },
     {
         "id": "chongyun",
@@ -132,7 +244,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "claymore",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Cor Lapis",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Sigh"
+        }
     },
     {
         "id": "citlali",
@@ -140,7 +259,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "catalyst",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Talisman of the Enigmatic Land",
+            "local_speciality": "Quenepa Berry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Denial and Judgment"
+        }
     },
     {
         "id": "clorinde",
@@ -148,7 +274,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "sword",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Fontemer Unihorn",
+            "local_speciality": "Lumitoile",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Everamber"
+        }
     },
     {
         "id": "collei",
@@ -156,7 +289,14 @@
         "rarity": 4,
         "element": "dendro",
         "weapon": "bow",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Majestic Hooked Beak",
+            "local_speciality": "Rukkhashava Mushrooms",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tears of the Calamitous God"
+        }
     },
     {
         "id": "columbina",
@@ -164,7 +304,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Radiant Antler",
+            "local_speciality": "Winter Icelea",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mask of the Virtuous Doctor"
+        }
     },
     {
         "id": "cyno",
@@ -172,7 +319,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "polearm",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Thunderclap Fruitcore",
+            "local_speciality": "Scarab",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mudra of the Malefic General"
+        }
     },
     {
         "id": "dahlia",
@@ -180,7 +334,14 @@
         "rarity": 4,
         "element": "hydro",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Secret Source Airflow Accumulator",
+            "local_speciality": "Calla Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Scale-Feather"
+        }
     },
     {
         "id": "dehya",
@@ -188,7 +349,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "claymore",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Light Guiding Tetrahedron",
+            "local_speciality": "Sand Grease Pupa",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Puppet Strings"
+        }
     },
     {
         "id": "diluc",
@@ -196,7 +364,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "claymore",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Small Lamp Grass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Plume"
+        }
     },
     {
         "id": "diona",
@@ -204,7 +379,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "bow",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Calla Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shard of a Foul Legacy"
+        }
     },
     {
         "id": "dori",
@@ -212,7 +394,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "claymore",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Thunderclap Fruitcore",
+            "local_speciality": "Kalpalata Lotus",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Bloodjade Branch"
+        }
     },
     {
         "id": "durin",
@@ -220,7 +409,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Cyclic Military Kuuvahki Core",
+            "local_speciality": "Frostlamp Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Sunfire"
+        }
     },
     {
         "id": "emilie",
@@ -228,7 +424,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "polearm",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Fragment of a Golden Melody",
+            "local_speciality": "Lakelight Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Silken Feather"
+        }
     },
     {
         "id": "escoffier",
@@ -236,7 +439,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "polearm",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Secret Source Airflow Accumulator",
+            "local_speciality": "Beryl Conch",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Horn"
+        }
     },
     {
         "id": "eula",
@@ -244,7 +454,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "claymore",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Crystalline Bloom",
+            "local_speciality": "Dandelion Seed",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dragon Lord's Crown"
+        }
     },
     {
         "id": "faruzan",
@@ -252,7 +469,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "bow",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Light Guiding Tetrahedron",
+            "local_speciality": "Henna Berry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Puppet Strings"
+        }
     },
     {
         "id": "fischl",
@@ -260,7 +484,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "bow",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Lightning Prism",
+            "local_speciality": "Small Lamp Grass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Spirit Locket of Boreas"
+        }
     },
     {
         "id": "flins",
@@ -268,7 +499,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "polearm",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Precision Kuuvahki Stamping Die",
+            "local_speciality": "Frostlamp Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ascended Sample: Queen"
+        }
     },
     {
         "id": "freminet",
@@ -276,7 +514,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "claymore",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Artificed Spare Clockwork Component - Coppelius",
+            "local_speciality": "Romaritime Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Worldspan Fern"
+        }
     },
     {
         "id": "furina",
@@ -284,7 +529,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "sword",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Water That Failed To Transcend",
+            "local_speciality": "Lakelight Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Mass"
+        }
     },
     {
         "id": "gaming",
@@ -292,7 +544,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "claymore",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Emperor's Resolution",
+            "local_speciality": "Starconch",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Mass"
+        }
     },
     {
         "id": "ganyu",
@@ -300,7 +559,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "bow",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Qingxin",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shadow of the Warrior"
+        }
     },
     {
         "id": "gorou",
@@ -308,7 +574,14 @@
         "rarity": 4,
         "element": "geo",
         "weapon": "bow",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Perpetual Heart",
+            "local_speciality": "Sango Pearl",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Molten Moment"
+        }
     },
     {
         "id": "hu_tao",
@@ -316,7 +589,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Juvenile Jade",
+            "local_speciality": "Silk Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shard of a Foul Legacy"
+        }
     },
     {
         "id": "iansan",
@@ -324,7 +604,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "polearm",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Ensnaring Gaze",
+            "local_speciality": "Dracolite",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Denial and Judgment"
+        }
     },
     {
         "id": "ifa",
@@ -332,7 +619,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Sparkless Statue Core",
+            "local_speciality": "Saurian Claw Succulent",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ascended Sample: Rook"
+        }
     },
     {
         "id": "ineffa",
@@ -340,7 +634,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "polearm",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Secret Source Airflow Accumulator",
+            "local_speciality": "Glowing Hornshroom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Sunfire"
+        }
     },
     {
         "id": "jahoda",
@@ -348,7 +649,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "bow",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Lightbearing Scale-Feather",
+            "local_speciality": "Portable Bearing",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ascended Sample: Knight"
+        }
     },
     {
         "id": "jean",
@@ -356,7 +664,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hurricane Seed",
+            "local_speciality": "Dandelion Seed",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Plume"
+        }
     },
     {
         "id": "kachina",
@@ -364,7 +679,14 @@
         "rarity": 4,
         "element": "geo",
         "weapon": "polearm",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Overripe Flamegranate",
+            "local_speciality": "Quenepa Berry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Fading Candle"
+        }
     },
     {
         "id": "kaedehara_kazuha",
@@ -372,7 +694,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Marionette Core",
+            "local_speciality": "Sea Ganoderma",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Gilded Scale"
+        }
     },
     {
         "id": "kaeya",
@@ -380,7 +709,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "sword",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Calla Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Spirit Locket of Boreas"
+        }
     },
     {
         "id": "kamisato_ayaka",
@@ -388,7 +724,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Perpetual Heart",
+            "local_speciality": "Sakura Bloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Bloodjade Branch"
+        }
     },
     {
         "id": "kamisato_ayato",
@@ -396,7 +739,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Dew of Repudiation",
+            "local_speciality": "Sakura Bloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mudra of the Malefic General"
+        }
     },
     {
         "id": "kaveh",
@@ -404,7 +754,14 @@
         "rarity": 4,
         "element": "dendro",
         "weapon": "claymore",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Quelled Creeper",
+            "local_speciality": "Mourning Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Primordial Greenbloom"
+        }
     },
     {
         "id": "keqing",
@@ -412,7 +769,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "sword",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Lightning Prism",
+            "local_speciality": "Cor Lapis",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ring of Boreas"
+        }
     },
     {
         "id": "kinich",
@@ -420,7 +784,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "claymore",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Overripe Flamegranate",
+            "local_speciality": "Saurian Claw Succulent",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Denial and Judgment"
+        }
     },
     {
         "id": "kirara",
@@ -428,7 +799,14 @@
         "rarity": 4,
         "element": "dendro",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Evergloom Ring",
+            "local_speciality": "Amakumo Fruit",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Everamber"
+        }
     },
     {
         "id": "klee",
@@ -436,7 +814,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "catalyst",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Philanemo Mushroom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ring of Boreas"
+        }
     },
     {
         "id": "kujou_sara",
@@ -444,7 +829,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "bow",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Storm Beads",
+            "local_speciality": "Dendrobium",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ashen Heart"
+        }
     },
     {
         "id": "kuki_shinobu",
@@ -452,7 +844,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "sword",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Runic Fang",
+            "local_speciality": "Naku Weed",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tears of the Calamitous God"
+        }
     },
     {
         "id": "lan_yan",
@@ -460,7 +859,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Gold-Inscribed Secret Source Core",
+            "local_speciality": "Clearwater Jade",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Sunfire"
+        }
     },
     {
         "id": "lauma",
@@ -468,7 +874,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "catalyst",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Lightbearing Scale-Feather",
+            "local_speciality": "Moonfall Silver",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Scale-Feather"
+        }
     },
     {
         "id": "layla",
@@ -476,7 +889,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "sword",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Perpetual Caliber",
+            "local_speciality": "Nilotpala Lotus",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mirror of Mushin"
+        }
     },
     {
         "id": "lisa",
@@ -484,7 +904,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "catalyst",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Lightning Prism",
+            "local_speciality": "Valberry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Claw"
+        }
     },
     {
         "id": "lynette",
@@ -492,7 +919,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "sword",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Artificed Spare Clockwork Component - Coppelia",
+            "local_speciality": "Lumidouce Bell",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Everamber"
+        }
     },
     {
         "id": "lyney",
@@ -500,7 +934,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "bow",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Emperor's Resolution",
+            "local_speciality": "Rainbow Rose",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Primordial Greenbloom"
+        }
     },
     {
         "id": "mavuika",
@@ -508,7 +949,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "claymore",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Gold-Inscribed Secret Source Core",
+            "local_speciality": "Withering Purpurbloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Horn"
+        }
     },
     {
         "id": "mika",
@@ -516,7 +964,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "polearm",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Pseudo-Stamens",
+            "local_speciality": "Wolfhook",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mirror of Mushin"
+        }
     },
     {
         "id": "mona",
@@ -524,7 +979,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Cleansing Heart",
+            "local_speciality": "Philanemo Mushroom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ring of Boreas"
+        }
     },
     {
         "id": "mualani",
@@ -532,7 +994,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Mark of the Binding Blessing",
+            "local_speciality": "Sprayfeather Gill",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Mass"
+        }
     },
     {
         "id": "nahida",
@@ -540,7 +1009,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "catalyst",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Quelled Creeper",
+            "local_speciality": "Kalpalata Lotus",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Puppet Strings"
+        }
     },
     {
         "id": "navia",
@@ -548,7 +1024,14 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "claymore",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Artificed Spare Clockwork Component - Coppelius",
+            "local_speciality": "Spring of the First Dewdrop",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Silk String"
+        }
     },
     {
         "id": "nefer",
@@ -556,7 +1039,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "catalyst",
-        "region": "Nod-Krai"
+        "region": "Nod-Krai",
+        "ascension_materials": {
+            "boss_drops": "Radiant Antler",
+            "local_speciality": "Moonfall Silver",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ascended Sample: Rook"
+        }
     },
     {
         "id": "neuvillette",
@@ -564,7 +1054,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Fontemer Unihorn",
+            "local_speciality": "Lumitoile",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Everamber"
+        }
     },
     {
         "id": "nilou",
@@ -572,7 +1069,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "sword",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Perpetual Caliber",
+            "local_speciality": "Padisarah",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tears of the Calamitous God"
+        }
     },
     {
         "id": "ningguang",
@@ -580,7 +1084,14 @@
         "rarity": 4,
         "element": "geo",
         "weapon": "catalyst",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Basalt Pillar",
+            "local_speciality": "Glaze Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Spirit Locket of Boreas"
+        }
     },
     {
         "id": "noelle",
@@ -588,7 +1099,14 @@
         "rarity": 4,
         "element": "geo",
         "weapon": "claymore",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Basalt Pillar",
+            "local_speciality": "Valberry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Claw"
+        }
     },
     {
         "id": "ororon",
@@ -596,7 +1114,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "bow",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Mark of the Binding Blessing",
+            "local_speciality": "Glowing Hornshroom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Silk String"
+        }
     },
     {
         "id": "qiqi",
@@ -604,7 +1129,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "sword",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Violetgrass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tail of Boreas"
+        }
     },
     {
         "id": "raiden_shogun",
@@ -612,7 +1144,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "polearm",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Storm Beads",
+            "local_speciality": "Amakumo Fruit",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Molten Moment"
+        }
     },
     {
         "id": "razor",
@@ -620,7 +1159,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "claymore",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Lightning Prism",
+            "local_speciality": "Wolfhook",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Claw"
+        }
     },
     {
         "id": "rosaria",
@@ -628,7 +1174,14 @@
         "rarity": 4,
         "element": "cryo",
         "weapon": "polearm",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hoarfrost Core",
+            "local_speciality": "Valberry",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shadow of the Warrior"
+        }
     },
     {
         "id": "sangonomiya_kokomi",
@@ -636,7 +1189,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "catalyst",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Dew of Repudiation",
+            "local_speciality": "Sango Pearl",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Hellfire Butterfly"
+        }
     },
     {
         "id": "sayu",
@@ -644,7 +1204,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "claymore",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Marionette Core",
+            "local_speciality": "Crystal Marrow",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Gilded Scale"
+        }
     },
     {
         "id": "sethos",
@@ -652,7 +1219,14 @@
         "rarity": 4,
         "element": "electro",
         "weapon": "bow",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Cloudseam Scale",
+            "local_speciality": "Trishiraite",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Daka's Bell"
+        }
     },
     {
         "id": "shenhe",
@@ -660,7 +1234,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Dragonheir's False Fin",
+            "local_speciality": "Qingxin",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Hellfire Butterfly"
+        }
     },
     {
         "id": "shikanoin_heizou",
@@ -668,7 +1249,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Runic Fang",
+            "local_speciality": "Onikabuto",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "The Meaning of Aeons"
+        }
     },
     {
         "id": "sigewinne",
@@ -676,14 +1264,28 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "bow",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "Water That Failed To Transcend",
+            "local_speciality": "Romaritime Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Eye of the Maelstrom"
+        }
     },
     {
         "id": "skirk",
         "name": "Skirk",
         "rarity": 5,
         "element": "cryo",
-        "weapon": "sword"
+        "weapon": "sword",
+        "ascension_materials": {
+            "boss_drops": "Ensnaring Gaze",
+            "local_speciality": "Skysplit Gembloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ascended Sample: Knight"
+        }
     },
     {
         "id": "sucrose",
@@ -691,7 +1293,14 @@
         "rarity": 4,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hurricane Seed",
+            "local_speciality": "Windwheel Aster",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Spirit Locket of Boreas"
+        }
     },
     {
         "id": "tartaglia",
@@ -699,7 +1308,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "bow",
-        "region": "Snezhnaya"
+        "region": "Snezhnaya",
+        "ascension_materials": {
+            "boss_drops": "Cleansing Heart",
+            "local_speciality": "Starconch",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shard of a Foul Legacy"
+        }
     },
     {
         "id": "thoma",
@@ -707,7 +1323,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "polearm",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Smoldering Pearl",
+            "local_speciality": "Fluorescent Fungus",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Hellfire Butterfly"
+        }
     },
     {
         "id": "tighnari",
@@ -715,7 +1338,14 @@
         "rarity": 5,
         "element": "dendro",
         "weapon": "bow",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Majestic Hooked Beak",
+            "local_speciality": "Nilotpala Lotus",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "The Meaning of Aeons"
+        }
     },
     {
         "id": "varesa",
@@ -723,7 +1353,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "catalyst",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Sparkless Statue Core",
+            "local_speciality": "Skysplit Gembloom",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Eroded Scale-Feather"
+        }
     },
     {
         "id": "venti",
@@ -731,7 +1368,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "bow",
-        "region": "Mondstadt"
+        "region": "Mondstadt",
+        "ascension_materials": {
+            "boss_drops": "Hurricane Seed",
+            "local_speciality": "Cecilia",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tail of Boreas"
+        }
     },
     {
         "id": "wanderer",
@@ -739,7 +1383,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Sumeru"
+        "region": "Sumeru",
+        "ascension_materials": {
+            "boss_drops": "Perpetual Caliber",
+            "local_speciality": "Rukkhashava Mushrooms",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Daka's Bell"
+        }
     },
     {
         "id": "wriothesley",
@@ -747,7 +1398,14 @@
         "rarity": 5,
         "element": "cryo",
         "weapon": "catalyst",
-        "region": "Fontaine"
+        "region": "Fontaine",
+        "ascension_materials": {
+            "boss_drops": "\"Tourbillon Device\"",
+            "local_speciality": "Subdetection Unit",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Primordial Greenbloom"
+        }
     },
     {
         "id": "xiangling",
@@ -755,7 +1413,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Jueyun Chili",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dvalin's Claw"
+        }
     },
     {
         "id": "xianyun",
@@ -763,7 +1428,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Cloudseam Scale",
+            "local_speciality": "Clearwater Jade",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Lightless Eye of the Maelstrom"
+        }
     },
     {
         "id": "xiao",
@@ -771,7 +1443,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Juvenile Jade",
+            "local_speciality": "Qingxin",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Shadow of the Warrior"
+        }
     },
     {
         "id": "xilonen",
@@ -779,7 +1458,14 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "sword",
-        "region": "Natlan"
+        "region": "Natlan",
+        "ascension_materials": {
+            "boss_drops": "Gold-Inscribed Secret Source Core",
+            "local_speciality": "Brilliant Chrysanthemum",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Mirror of Mushin"
+        }
     },
     {
         "id": "xingqiu",
@@ -787,7 +1473,14 @@
         "rarity": 4,
         "element": "hydro",
         "weapon": "sword",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Cleansing Heart",
+            "local_speciality": "Silk Flower",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tail of Boreas"
+        }
     },
     {
         "id": "xinyan",
@@ -795,7 +1488,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "claymore",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Everflame Seed",
+            "local_speciality": "Violetgrass",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tusk of Monoceros Caeli"
+        }
     },
     {
         "id": "yae_miko",
@@ -803,7 +1503,14 @@
         "rarity": 5,
         "element": "electro",
         "weapon": "catalyst",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Dragonheir's False Fin",
+            "local_speciality": "Sea Ganoderma",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "The Meaning of Aeons"
+        }
     },
     {
         "id": "yanfei",
@@ -811,7 +1518,14 @@
         "rarity": 4,
         "element": "pyro",
         "weapon": "catalyst",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Juvenile Jade",
+            "local_speciality": "Noctilucous Jade",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Bloodjade Branch"
+        }
     },
     {
         "id": "yaoyao",
@@ -819,7 +1533,14 @@
         "rarity": 4,
         "element": "dendro",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Quelled Creeper",
+            "local_speciality": "Jueyun Chili",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Daka's Bell"
+        }
     },
     {
         "id": "yelan",
@@ -827,7 +1548,14 @@
         "rarity": 5,
         "element": "hydro",
         "weapon": "bow",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Runic Fang",
+            "local_speciality": "Starconch",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Gilded Scale"
+        }
     },
     {
         "id": "yoimiya",
@@ -835,7 +1563,14 @@
         "rarity": 5,
         "element": "pyro",
         "weapon": "bow",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Smoldering Pearl",
+            "local_speciality": "Naku Weed",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Dragon Lord's Crown"
+        }
     },
     {
         "id": "yumemizuki_mizuki",
@@ -843,7 +1578,14 @@
         "rarity": 5,
         "element": "anemo",
         "weapon": "catalyst",
-        "region": "Inazuma"
+        "region": "Inazuma",
+        "ascension_materials": {
+            "boss_drops": "Talisman of the Enigmatic Land",
+            "local_speciality": "Sea Ganoderma",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Fading Candle"
+        }
     },
     {
         "id": "yun_jin",
@@ -851,7 +1593,14 @@
         "rarity": 4,
         "element": "geo",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Riftborn Regalia",
+            "local_speciality": "Glaze Lily",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Ashen Heart"
+        }
     },
     {
         "id": "zhongli",
@@ -859,6 +1608,13 @@
         "rarity": 5,
         "element": "geo",
         "weapon": "polearm",
-        "region": "Liyue"
+        "region": "Liyue",
+        "ascension_materials": {
+            "boss_drops": "Basalt Pillar",
+            "local_speciality": "Cor Lapis",
+            "common_enemy_drops": "",
+            "talent_books": "",
+            "weekly_boss_drops": "Tusk of Monoceros Caeli"
+        }
     }
 ]
