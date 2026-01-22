@@ -167,10 +167,10 @@
                     "weapon_materials": {
                         "rarity2": 3
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity2": 3
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity1": 2
                     }
                 },
@@ -179,10 +179,10 @@
                     "weapon_materials": {
                         "rarity3": 3
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity2": 12
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity1": 8
                     }
                 },
@@ -191,10 +191,10 @@
                     "weapon_materials": {
                         "rarity3": 6
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity3": 6
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity2": 6
                     }
                 },
@@ -203,10 +203,10 @@
                     "weapon_materials": {
                         "rarity4": 3
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity3": 12
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity2": 9
                     }
                 },
@@ -215,10 +215,10 @@
                     "weapon_materials": {
                         "rarity4": 6
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity4": 9
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity3": 6
                     }
                 },
@@ -227,10 +227,10 @@
                     "weapon_materials": {
                         "rarity5": 4
                     },
-                    "common_enemy_drops": {
+                    "elite_enemy_drops": {
                         "rarity4": 18
                     },
-                    "elite_enemy_drops": {
+                    "common_enemy_drops": {
                         "rarity3": 12
                     }
                 }

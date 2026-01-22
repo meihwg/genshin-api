@@ -9,8 +9,8 @@
         "ascension_materials": {
             "boss_drops": "Precision Kuuvahki Stamping Die",
             "local_speciality": "Portable Bearing",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Elysium",
             "weekly_boss_drops": "Silken Feather"
         }
     },
@@ -24,8 +24,8 @@
         "ascension_materials": {
             "boss_drops": "Basalt Pillar",
             "local_speciality": "Cecilia",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Tusk of Monoceros Caeli"
         }
     },
@@ -39,8 +39,8 @@
         "ascension_materials": {
             "boss_drops": "Pseudo-Stamens",
             "local_speciality": "Sand Grease Pupa",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Ingenuity",
             "weekly_boss_drops": "Mirror of Mushin"
         }
     },
@@ -53,8 +53,8 @@
         "ascension_materials": {
             "boss_drops": "Crystalline Bloom",
             "local_speciality": "Crystal Marrow",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Molten Moment"
         }
     },
@@ -68,8 +68,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Small Lamp Grass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Dvalin's Sigh"
         }
     },
@@ -83,8 +83,8 @@
         "ascension_materials": {
             "boss_drops": "Riftborn Regalia",
             "local_speciality": "Onikabuto",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Elegance",
             "weekly_boss_drops": "Ashen Heart"
         }
     },
@@ -98,8 +98,8 @@
         "ascension_materials": {
             "boss_drops": "Fragment of a Golden Melody",
             "local_speciality": "Rainbow Rose",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Order",
             "weekly_boss_drops": "Fading Candle"
         }
     },
@@ -113,8 +113,8 @@
         "ascension_materials": {
             "boss_drops": "Evergloom Ring",
             "local_speciality": "Violetgrass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fungus Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Worldspan Fern"
         }
     },
@@ -128,8 +128,8 @@
         "ascension_materials": {
             "boss_drops": "Cleansing Heart",
             "local_speciality": "Philanemo Mushroom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Ring of Boreas"
         }
     },
@@ -143,8 +143,8 @@
         "ascension_materials": {
             "boss_drops": "Lightning Prism",
             "local_speciality": "Noctilucous Jade",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Dvalin's Sigh"
         }
     },
@@ -158,8 +158,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Windwheel Aster",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dvalin's Plume"
         }
     },
@@ -173,8 +173,8 @@
         "ascension_materials": {
             "boss_drops": "Light Guiding Tetrahedron",
             "local_speciality": "Henna Berry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Admonition",
             "weekly_boss_drops": "Tears of the Calamitous God"
         }
     },
@@ -188,8 +188,8 @@
         "ascension_materials": {
             "boss_drops": "\"Tourbillon Device\"",
             "local_speciality": "Beryl Conch",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Justice",
             "weekly_boss_drops": "Lightless Silk String"
         }
     },
@@ -203,8 +203,8 @@
         "ascension_materials": {
             "boss_drops": "Ensnaring Gaze",
             "local_speciality": "Withering Purpurbloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Conflict",
             "weekly_boss_drops": "Silken Feather"
         }
     },
@@ -218,8 +218,8 @@
         "ascension_materials": {
             "boss_drops": "Fontemer Unihorn",
             "local_speciality": "Lumidouce Bell",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Order",
             "weekly_boss_drops": "Lightless Eye of the Maelstrom"
         }
     },
@@ -233,8 +233,8 @@
         "ascension_materials": {
             "boss_drops": "Artificed Spare Clockwork Component - Coppelia",
             "local_speciality": "Dendrobium",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Light",
             "weekly_boss_drops": "Lightless Silk String"
         }
     },
@@ -248,8 +248,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Cor Lapis",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Dvalin's Sigh"
         }
     },
@@ -263,8 +263,8 @@
         "ascension_materials": {
             "boss_drops": "Talisman of the Enigmatic Land",
             "local_speciality": "Quenepa Berry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Kindling",
             "weekly_boss_drops": "Denial and Judgment"
         }
     },
@@ -278,8 +278,8 @@
         "ascension_materials": {
             "boss_drops": "Fontemer Unihorn",
             "local_speciality": "Lumitoile",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fontemer Aberrant Material",
+            "talent_books": "Justice",
             "weekly_boss_drops": "Everamber"
         }
     },
@@ -293,8 +293,8 @@
         "ascension_materials": {
             "boss_drops": "Majestic Hooked Beak",
             "local_speciality": "Rukkhashava Mushrooms",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Praxis",
             "weekly_boss_drops": "Tears of the Calamitous God"
         }
     },
@@ -308,8 +308,8 @@
         "ascension_materials": {
             "boss_drops": "Radiant Antler",
             "local_speciality": "Winter Icelea",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Moonlight",
             "weekly_boss_drops": "Mask of the Virtuous Doctor"
         }
     },
@@ -323,8 +323,8 @@
         "ascension_materials": {
             "boss_drops": "Thunderclap Fruitcore",
             "local_speciality": "Scarab",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Admonition",
             "weekly_boss_drops": "Mudra of the Malefic General"
         }
     },
@@ -338,8 +338,8 @@
         "ascension_materials": {
             "boss_drops": "Secret Source Airflow Accumulator",
             "local_speciality": "Calla Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Eroded Scale-Feather"
         }
     },
@@ -353,8 +353,8 @@
         "ascension_materials": {
             "boss_drops": "Light Guiding Tetrahedron",
             "local_speciality": "Sand Grease Pupa",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Praxis",
             "weekly_boss_drops": "Puppet Strings"
         }
     },
@@ -368,8 +368,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Small Lamp Grass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dvalin's Plume"
         }
     },
@@ -383,8 +383,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Calla Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Shard of a Foul Legacy"
         }
     },
@@ -398,8 +398,8 @@
         "ascension_materials": {
             "boss_drops": "Thunderclap Fruitcore",
             "local_speciality": "Kalpalata Lotus",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Ingenuity",
             "weekly_boss_drops": "Bloodjade Branch"
         }
     },
@@ -413,8 +413,8 @@
         "ascension_materials": {
             "boss_drops": "Cyclic Military Kuuvahki Core",
             "local_speciality": "Frostlamp Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Eroded Sunfire"
         }
     },
@@ -428,8 +428,8 @@
         "ascension_materials": {
             "boss_drops": "Fragment of a Golden Melody",
             "local_speciality": "Lakelight Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Order",
             "weekly_boss_drops": "Silken Feather"
         }
     },
@@ -443,8 +443,8 @@
         "ascension_materials": {
             "boss_drops": "Secret Source Airflow Accumulator",
             "local_speciality": "Beryl Conch",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Justice",
             "weekly_boss_drops": "Eroded Horn"
         }
     },
@@ -458,8 +458,8 @@
         "ascension_materials": {
             "boss_drops": "Crystalline Bloom",
             "local_speciality": "Dandelion Seed",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dragon Lord's Crown"
         }
     },
@@ -473,8 +473,8 @@
         "ascension_materials": {
             "boss_drops": "Light Guiding Tetrahedron",
             "local_speciality": "Henna Berry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Admonition",
             "weekly_boss_drops": "Puppet Strings"
         }
     },
@@ -488,8 +488,8 @@
         "ascension_materials": {
             "boss_drops": "Lightning Prism",
             "local_speciality": "Small Lamp Grass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Shooter Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Spirit Locket of Boreas"
         }
     },
@@ -503,8 +503,8 @@
         "ascension_materials": {
             "boss_drops": "Precision Kuuvahki Stamping Die",
             "local_speciality": "Frostlamp Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Vagrancy",
             "weekly_boss_drops": "Ascended Sample: Queen"
         }
     },
@@ -518,8 +518,8 @@
         "ascension_materials": {
             "boss_drops": "Artificed Spare Clockwork Component - Coppelius",
             "local_speciality": "Romaritime Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fontemer Aberrant Material",
+            "talent_books": "Justice",
             "weekly_boss_drops": "Worldspan Fern"
         }
     },
@@ -533,8 +533,8 @@
         "ascension_materials": {
             "boss_drops": "Water That Failed To Transcend",
             "local_speciality": "Lakelight Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Justice",
             "weekly_boss_drops": "Lightless Mass"
         }
     },
@@ -548,8 +548,8 @@
         "ascension_materials": {
             "boss_drops": "Emperor's Resolution",
             "local_speciality": "Starconch",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Lightless Mass"
         }
     },
@@ -563,8 +563,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Qingxin",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Shadow of the Warrior"
         }
     },
@@ -578,8 +578,8 @@
         "ascension_materials": {
             "boss_drops": "Perpetual Heart",
             "local_speciality": "Sango Pearl",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Light",
             "weekly_boss_drops": "Molten Moment"
         }
     },
@@ -593,8 +593,8 @@
         "ascension_materials": {
             "boss_drops": "Juvenile Jade",
             "local_speciality": "Silk Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Shard of a Foul Legacy"
         }
     },
@@ -608,8 +608,8 @@
         "ascension_materials": {
             "boss_drops": "Ensnaring Gaze",
             "local_speciality": "Dracolite",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Contention",
             "weekly_boss_drops": "Denial and Judgment"
         }
     },
@@ -623,8 +623,8 @@
         "ascension_materials": {
             "boss_drops": "Sparkless Statue Core",
             "local_speciality": "Saurian Claw Succulent",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Conflict",
             "weekly_boss_drops": "Ascended Sample: Rook"
         }
     },
@@ -638,8 +638,8 @@
         "ascension_materials": {
             "boss_drops": "Secret Source Airflow Accumulator",
             "local_speciality": "Glowing Hornshroom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Conflict",
             "weekly_boss_drops": "Eroded Sunfire"
         }
     },
@@ -653,8 +653,8 @@
         "ascension_materials": {
             "boss_drops": "Lightbearing Scale-Feather",
             "local_speciality": "Portable Bearing",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Landcruiser Material",
+            "talent_books": "Vagrancy",
             "weekly_boss_drops": "Ascended Sample: Knight"
         }
     },
@@ -668,8 +668,8 @@
         "ascension_materials": {
             "boss_drops": "Hurricane Seed",
             "local_speciality": "Dandelion Seed",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dvalin's Plume"
         }
     },
@@ -683,8 +683,8 @@
         "ascension_materials": {
             "boss_drops": "Overripe Flamegranate",
             "local_speciality": "Quenepa Berry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Conflict",
             "weekly_boss_drops": "Fading Candle"
         }
     },
@@ -698,8 +698,8 @@
         "ascension_materials": {
             "boss_drops": "Marionette Core",
             "local_speciality": "Sea Ganoderma",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Gilded Scale"
         }
     },
@@ -713,8 +713,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Calla Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Spirit Locket of Boreas"
         }
     },
@@ -728,8 +728,8 @@
         "ascension_materials": {
             "boss_drops": "Perpetual Heart",
             "local_speciality": "Sakura Bloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Elegance",
             "weekly_boss_drops": "Bloodjade Branch"
         }
     },
@@ -743,8 +743,8 @@
         "ascension_materials": {
             "boss_drops": "Dew of Repudiation",
             "local_speciality": "Sakura Bloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Elegance",
             "weekly_boss_drops": "Mudra of the Malefic General"
         }
     },
@@ -758,8 +758,8 @@
         "ascension_materials": {
             "boss_drops": "Quelled Creeper",
             "local_speciality": "Mourning Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fungus Material",
+            "talent_books": "Ingenuity",
             "weekly_boss_drops": "Primordial Greenbloom"
         }
     },
@@ -773,8 +773,8 @@
         "ascension_materials": {
             "boss_drops": "Lightning Prism",
             "local_speciality": "Cor Lapis",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Ring of Boreas"
         }
     },
@@ -788,8 +788,8 @@
         "ascension_materials": {
             "boss_drops": "Overripe Flamegranate",
             "local_speciality": "Saurian Claw Succulent",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Kindling",
             "weekly_boss_drops": "Denial and Judgment"
         }
     },
@@ -803,8 +803,8 @@
         "ascension_materials": {
             "boss_drops": "Evergloom Ring",
             "local_speciality": "Amakumo Fruit",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "Everamber"
         }
     },
@@ -818,8 +818,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Philanemo Mushroom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Ring of Boreas"
         }
     },
@@ -833,8 +833,8 @@
         "ascension_materials": {
             "boss_drops": "Storm Beads",
             "local_speciality": "Dendrobium",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Elegance",
             "weekly_boss_drops": "Ashen Heart"
         }
     },
@@ -848,8 +848,8 @@
         "ascension_materials": {
             "boss_drops": "Runic Fang",
             "local_speciality": "Naku Weed",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Elegance",
             "weekly_boss_drops": "Tears of the Calamitous God"
         }
     },
@@ -863,8 +863,8 @@
         "ascension_materials": {
             "boss_drops": "Gold-Inscribed Secret Source Core",
             "local_speciality": "Clearwater Jade",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Eroded Sunfire"
         }
     },
@@ -878,8 +878,8 @@
         "ascension_materials": {
             "boss_drops": "Lightbearing Scale-Feather",
             "local_speciality": "Moonfall Silver",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Moonlight",
             "weekly_boss_drops": "Eroded Scale-Feather"
         }
     },
@@ -893,8 +893,8 @@
         "ascension_materials": {
             "boss_drops": "Perpetual Caliber",
             "local_speciality": "Nilotpala Lotus",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Ingenuity",
             "weekly_boss_drops": "Mirror of Mushin"
         }
     },
@@ -908,8 +908,8 @@
         "ascension_materials": {
             "boss_drops": "Lightning Prism",
             "local_speciality": "Valberry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Dvalin's Claw"
         }
     },
@@ -923,8 +923,8 @@
         "ascension_materials": {
             "boss_drops": "Artificed Spare Clockwork Component - Coppelia",
             "local_speciality": "Lumidouce Bell",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Order",
             "weekly_boss_drops": "Everamber"
         }
     },
@@ -938,8 +938,8 @@
         "ascension_materials": {
             "boss_drops": "Emperor's Resolution",
             "local_speciality": "Rainbow Rose",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Equity",
             "weekly_boss_drops": "Primordial Greenbloom"
         }
     },
@@ -953,8 +953,8 @@
         "ascension_materials": {
             "boss_drops": "Gold-Inscribed Secret Source Core",
             "local_speciality": "Withering Purpurbloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Contention",
             "weekly_boss_drops": "Eroded Horn"
         }
     },
@@ -968,8 +968,8 @@
         "ascension_materials": {
             "boss_drops": "Pseudo-Stamens",
             "local_speciality": "Wolfhook",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Mirror of Mushin"
         }
     },
@@ -983,8 +983,8 @@
         "ascension_materials": {
             "boss_drops": "Cleansing Heart",
             "local_speciality": "Philanemo Mushroom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Ring of Boreas"
         }
     },
@@ -998,8 +998,8 @@
         "ascension_materials": {
             "boss_drops": "Mark of the Binding Blessing",
             "local_speciality": "Sprayfeather Gill",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Contention",
             "weekly_boss_drops": "Lightless Mass"
         }
     },
@@ -1013,8 +1013,8 @@
         "ascension_materials": {
             "boss_drops": "Quelled Creeper",
             "local_speciality": "Kalpalata Lotus",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fungus Material",
+            "talent_books": "Ingenuity",
             "weekly_boss_drops": "Puppet Strings"
         }
     },
@@ -1028,8 +1028,8 @@
         "ascension_materials": {
             "boss_drops": "Artificed Spare Clockwork Component - Coppelius",
             "local_speciality": "Spring of the First Dewdrop",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fontemer Aberrant Material",
+            "talent_books": "Equity",
             "weekly_boss_drops": "Lightless Silk String"
         }
     },
@@ -1043,8 +1043,8 @@
         "ascension_materials": {
             "boss_drops": "Radiant Antler",
             "local_speciality": "Moonfall Silver",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Oprichniki Material",
+            "talent_books": "Elysium",
             "weekly_boss_drops": "Ascended Sample: Rook"
         }
     },
@@ -1058,8 +1058,8 @@
         "ascension_materials": {
             "boss_drops": "Fontemer Unihorn",
             "local_speciality": "Lumitoile",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fontemer Aberrant Material",
+            "talent_books": "Equity",
             "weekly_boss_drops": "Everamber"
         }
     },
@@ -1073,8 +1073,8 @@
         "ascension_materials": {
             "boss_drops": "Perpetual Caliber",
             "local_speciality": "Padisarah",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fungus Material",
+            "talent_books": "Praxis",
             "weekly_boss_drops": "Tears of the Calamitous God"
         }
     },
@@ -1088,8 +1088,8 @@
         "ascension_materials": {
             "boss_drops": "Basalt Pillar",
             "local_speciality": "Glaze Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Spirit Locket of Boreas"
         }
     },
@@ -1103,8 +1103,8 @@
         "ascension_materials": {
             "boss_drops": "Basalt Pillar",
             "local_speciality": "Valberry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dvalin's Claw"
         }
     },
@@ -1118,8 +1118,8 @@
         "ascension_materials": {
             "boss_drops": "Mark of the Binding Blessing",
             "local_speciality": "Glowing Hornshroom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Kindling",
             "weekly_boss_drops": "Lightless Silk String"
         }
     },
@@ -1133,8 +1133,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Violetgrass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Tail of Boreas"
         }
     },
@@ -1148,8 +1148,8 @@
         "ascension_materials": {
             "boss_drops": "Storm Beads",
             "local_speciality": "Amakumo Fruit",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Light",
             "weekly_boss_drops": "Molten Moment"
         }
     },
@@ -1163,8 +1163,8 @@
         "ascension_materials": {
             "boss_drops": "Lightning Prism",
             "local_speciality": "Wolfhook",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Resistance",
             "weekly_boss_drops": "Dvalin's Claw"
         }
     },
@@ -1178,8 +1178,8 @@
         "ascension_materials": {
             "boss_drops": "Hoarfrost Core",
             "local_speciality": "Valberry",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Shadow of the Warrior"
         }
     },
@@ -1193,8 +1193,8 @@
         "ascension_materials": {
             "boss_drops": "Dew of Repudiation",
             "local_speciality": "Sango Pearl",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Specter Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "Hellfire Butterfly"
         }
     },
@@ -1208,8 +1208,8 @@
         "ascension_materials": {
             "boss_drops": "Marionette Core",
             "local_speciality": "Crystal Marrow",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Light",
             "weekly_boss_drops": "Gilded Scale"
         }
     },
@@ -1223,8 +1223,8 @@
         "ascension_materials": {
             "boss_drops": "Cloudseam Scale",
             "local_speciality": "Trishiraite",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "The Eremites Material",
+            "talent_books": "Praxis",
             "weekly_boss_drops": "Daka's Bell"
         }
     },
@@ -1238,8 +1238,8 @@
         "ascension_materials": {
             "boss_drops": "Dragonheir's False Fin",
             "local_speciality": "Qingxin",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Hellfire Butterfly"
         }
     },
@@ -1253,8 +1253,8 @@
         "ascension_materials": {
             "boss_drops": "Runic Fang",
             "local_speciality": "Onikabuto",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "The Meaning of Aeons"
         }
     },
@@ -1268,8 +1268,8 @@
         "ascension_materials": {
             "boss_drops": "Water That Failed To Transcend",
             "local_speciality": "Romaritime Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fontemer Aberrant Material",
+            "talent_books": "Equity",
             "weekly_boss_drops": "Lightless Eye of the Maelstrom"
         }
     },
@@ -1282,8 +1282,8 @@
         "ascension_materials": {
             "boss_drops": "Ensnaring Gaze",
             "local_speciality": "Skysplit Gembloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Contention",
             "weekly_boss_drops": "Ascended Sample: Knight"
         }
     },
@@ -1297,8 +1297,8 @@
         "ascension_materials": {
             "boss_drops": "Hurricane Seed",
             "local_speciality": "Windwheel Aster",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Whopperflower Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Spirit Locket of Boreas"
         }
     },
@@ -1312,8 +1312,8 @@
         "ascension_materials": {
             "boss_drops": "Cleansing Heart",
             "local_speciality": "Starconch",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Freedom",
             "weekly_boss_drops": "Shard of a Foul Legacy"
         }
     },
@@ -1327,8 +1327,8 @@
         "ascension_materials": {
             "boss_drops": "Smoldering Pearl",
             "local_speciality": "Fluorescent Fungus",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "Hellfire Butterfly"
         }
     },
@@ -1342,8 +1342,8 @@
         "ascension_materials": {
             "boss_drops": "Majestic Hooked Beak",
             "local_speciality": "Nilotpala Lotus",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fungus Material",
+            "talent_books": "Admonition",
             "weekly_boss_drops": "The Meaning of Aeons"
         }
     },
@@ -1357,8 +1357,8 @@
         "ascension_materials": {
             "boss_drops": "Sparkless Statue Core",
             "local_speciality": "Skysplit Gembloom",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Natlan Saurian Material",
+            "talent_books": "Conflict",
             "weekly_boss_drops": "Eroded Scale-Feather"
         }
     },
@@ -1372,8 +1372,8 @@
         "ascension_materials": {
             "boss_drops": "Hurricane Seed",
             "local_speciality": "Cecilia",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Ballad",
             "weekly_boss_drops": "Tail of Boreas"
         }
     },
@@ -1387,8 +1387,8 @@
         "ascension_materials": {
             "boss_drops": "Perpetual Caliber",
             "local_speciality": "Rukkhashava Mushrooms",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Praxis",
             "weekly_boss_drops": "Daka's Bell"
         }
     },
@@ -1402,8 +1402,8 @@
         "ascension_materials": {
             "boss_drops": "\"Tourbillon Device\"",
             "local_speciality": "Subdetection Unit",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Clockwork Meka Material",
+            "talent_books": "Order",
             "weekly_boss_drops": "Primordial Greenbloom"
         }
     },
@@ -1417,8 +1417,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Jueyun Chili",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Dvalin's Claw"
         }
     },
@@ -1432,8 +1432,8 @@
         "ascension_materials": {
             "boss_drops": "Cloudseam Scale",
             "local_speciality": "Clearwater Jade",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Lightless Eye of the Maelstrom"
         }
     },
@@ -1447,8 +1447,8 @@
         "ascension_materials": {
             "boss_drops": "Juvenile Jade",
             "local_speciality": "Qingxin",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Shadow of the Warrior"
         }
     },
@@ -1462,8 +1462,8 @@
         "ascension_materials": {
             "boss_drops": "Gold-Inscribed Secret Source Core",
             "local_speciality": "Brilliant Chrysanthemum",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Sauroform Tribal Warrior Material",
+            "talent_books": "Kindling",
             "weekly_boss_drops": "Mirror of Mushin"
         }
     },
@@ -1477,8 +1477,8 @@
         "ascension_materials": {
             "boss_drops": "Cleansing Heart",
             "local_speciality": "Silk Flower",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Tail of Boreas"
         }
     },
@@ -1492,8 +1492,8 @@
         "ascension_materials": {
             "boss_drops": "Everflame Seed",
             "local_speciality": "Violetgrass",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Tusk of Monoceros Caeli"
         }
     },
@@ -1507,8 +1507,8 @@
         "ascension_materials": {
             "boss_drops": "Dragonheir's False Fin",
             "local_speciality": "Sea Ganoderma",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Light",
             "weekly_boss_drops": "The Meaning of Aeons"
         }
     },
@@ -1522,8 +1522,8 @@
         "ascension_materials": {
             "boss_drops": "Juvenile Jade",
             "local_speciality": "Noctilucous Jade",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Treasure Hoarder Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Bloodjade Branch"
         }
     },
@@ -1537,8 +1537,8 @@
         "ascension_materials": {
             "boss_drops": "Quelled Creeper",
             "local_speciality": "Jueyun Chili",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Daka's Bell"
         }
     },
@@ -1552,8 +1552,8 @@
         "ascension_materials": {
             "boss_drops": "Runic Fang",
             "local_speciality": "Starconch",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Fatui Skirmisher Material",
+            "talent_books": "Prosperity",
             "weekly_boss_drops": "Gilded Scale"
         }
     },
@@ -1567,8 +1567,8 @@
         "ascension_materials": {
             "boss_drops": "Smoldering Pearl",
             "local_speciality": "Naku Weed",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Samachurl Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "Dragon Lord's Crown"
         }
     },
@@ -1582,8 +1582,8 @@
         "ascension_materials": {
             "boss_drops": "Talisman of the Enigmatic Land",
             "local_speciality": "Sea Ganoderma",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Nobushi Material",
+            "talent_books": "Transience",
             "weekly_boss_drops": "Fading Candle"
         }
     },
@@ -1597,8 +1597,8 @@
         "ascension_materials": {
             "boss_drops": "Riftborn Regalia",
             "local_speciality": "Glaze Lily",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Hilichurl Material",
+            "talent_books": "Diligence",
             "weekly_boss_drops": "Ashen Heart"
         }
     },
@@ -1612,8 +1612,8 @@
         "ascension_materials": {
             "boss_drops": "Basalt Pillar",
             "local_speciality": "Cor Lapis",
-            "common_enemy_drops": "",
-            "talent_books": "",
+            "common_enemy_drops": "Slime Material",
+            "talent_books": "Gold",
             "weekly_boss_drops": "Tusk of Monoceros Caeli"
         }
     }
