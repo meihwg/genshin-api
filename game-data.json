@@ -1,0 +1,240 @@
+[
+    {
+        "ascension_values": {
+            "character_level": {
+                "phase_1": {
+                    "moras": 20000,
+                    "boss_drops": 0,
+                    "elemental_stones": {
+                        "rarity2": 1
+                    },
+                    "local_speciality": 3,
+                    "common_enemy_drops": {
+                        "rarity1": 3
+                    }
+                },
+                "phase_2": {
+                    "moras": 40000,
+                    "boss_drops": 2,
+                    "elemental_stones": {
+                        "rarity3": 3
+                    },
+                    "local_speciality": 10,
+                    "common_enemy_drops": {
+                        "rarity1": 15
+                    }
+                },
+                "phase_3": {
+                    "moras": 60000,
+                    "boss_drops": 4,
+                    "elemental_stones": {
+                        "rarity3": 6
+                    },
+                    "local_speciality": 20,
+                    "common_enemy_drops": {
+                        "rarity2": 12
+                    }
+                },
+                "phase_4": {
+                    "moras": 80000,
+                    "boss_drops": 8,
+                    "elemental_stones": {
+                        "rarity4": 3
+                    },
+                    "local_speciality": 30,
+                    "common_enemy_drops": {
+                        "rarity2": 18
+                    }
+                },
+                "phase_5": {
+                    "moras": 100000,
+                    "boss_drops": 12,
+                    "elemental_stones": {
+                        "rarity4": 6
+                    },
+                    "local_speciality": 45,
+                    "common_enemy_drops": {
+                        "rarity3": 12
+                    }
+                },
+                "phase_6": {
+                    "moras": 120000,
+                    "boss_drops": 20,
+                    "elemental_stones": {
+                        "rarity5": 6
+                    },
+                    "local_speciality": 60,
+                    "common_enemy_drops": {
+                        "rarity3": 24
+                    }
+                }
+            },
+            "talents": {
+                "level_2": {
+                    "moras": 12500,
+                    "talent_books": {
+                        "rarity2": 3
+                    },
+                    "common_enemy_drops": {
+                        "rarity1": 6
+                    },
+                    "weekly_boss_drops": 0
+                },
+                "level_3": {
+                    "moras": 17500,
+                    "talent_books": {
+                        "rarity3": 2
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 3
+                    },
+                    "weekly_boss_drops": 0
+                },
+                "level_4": {
+                    "moras": 25000,
+                    "talent_books": {
+                        "rarity3": 4
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 4
+                    },
+                    "weekly_boss_drops": 0
+                },
+                "level_5": {
+                    "moras": 30000,
+                    "talent_books": {
+                        "rarity3": 6
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 6
+                    },
+                    "weekly_boss_drops": 0
+                },
+                "level_6": {
+                    "moras": 37500,
+                    "talent_books": {
+                        "rarity3": 9
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 9
+                    },
+                    "weekly_boss_drops": 0
+                },
+                "level_7": {
+                    "moras": 120000,
+                    "talent_books": {
+                        "rarity4": 4
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 4
+                    },
+                    "weekly_boss_drops": 1
+                },
+                "level_8": {
+                    "moras": 260000,
+                    "talent_books": {
+                        "rarity4": 6
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 6
+                    },
+                    "weekly_boss_drops": 1
+                },
+                "level_9": {
+                    "moras": 450000,
+                    "talent_books": {
+                        "rarity4": 12
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 9
+                    },
+                    "weekly_boss_drops": 2
+                },
+                "level_10": {
+                    "moras": 700000,
+                    "talent_books": {
+                        "rarity4": 16
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 12
+                    },
+                    "weekly_boss_drops": 2
+                }
+            },
+            "weapons": {
+                "phase_1": {
+                    "moras": 5000,
+                    "weapon_materials": {
+                        "rarity2": 3
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 3
+                    },
+                    "elite_enemy_drops": {
+                        "rarity1": 2
+                    }
+                },
+                "phase_2": {
+                    "moras": 15000,
+                    "weapon_materials": {
+                        "rarity3": 3
+                    },
+                    "common_enemy_drops": {
+                        "rarity2": 12
+                    },
+                    "elite_enemy_drops": {
+                        "rarity1": 8
+                    }
+                },
+                "phase_3": {
+                    "moras": 20000,
+                    "weapon_materials": {
+                        "rarity3": 6
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 6
+                    },
+                    "elite_enemy_drops": {
+                        "rarity2": 6
+                    }
+                },
+                "phase_4": {
+                    "moras": 30000,
+                    "weapon_materials": {
+                        "rarity4": 3
+                    },
+                    "common_enemy_drops": {
+                        "rarity3": 12
+                    },
+                    "elite_enemy_drops": {
+                        "rarity2": 9
+                    }
+                },
+                "phase_5": {
+                    "moras": 35000,
+                    "weapon_materials": {
+                        "rarity4": 6
+                    },
+                    "common_enemy_drops": {
+                        "rarity4": 9
+                    },
+                    "elite_enemy_drops": {
+                        "rarity3": 6
+                    }
+                },
+                "phase_6": {
+                    "moras": 45000,
+                    "weapon_materials": {
+                        "rarity5": 4
+                    },
+                    "common_enemy_drops": {
+                        "rarity4": 18
+                    },
+                    "elite_enemy_drops": {
+                        "rarity3": 12
+                    }
+                }
+            }
+        }
+    }
+]
